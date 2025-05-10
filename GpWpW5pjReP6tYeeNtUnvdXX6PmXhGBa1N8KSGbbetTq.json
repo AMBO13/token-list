@@ -1,0 +1,16 @@
+{
+  "address": "GpWpW5pjReP6tYeeNtUnvdXX6PmXhGBa1N8KSGbbetTq",
+  "symbol": "AMBO",
+  "name": "Ambo Utility Token",
+  "decimals": 6,
+  "logoURI": "https://i.ibb.co/6gLyDPk/ambo-logo.png",
+  "tags": ["utility-token"],
+  "extensions": {
+    "website": "https://www.amboinvest.com",
+    "twitter": "https://x.com/AmboInvest",
+    "telegram": "https://t.me/AmboChat",
+    "instagram": "https://www.instagram.com/amboinvest/",
+    "facebook": "https://m.facebook.com/61558257962753",
+    "discord": "https://discord.gg/CyWN5URS"
+  }
+}
